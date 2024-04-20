@@ -1,7 +1,7 @@
 package org.example
 
 fun main(args: Array<String>) {
-    print("Введите размер масива: ")
+    print("Введите размер массива: ")
 
     //val random = Random()
     //val mass = IntArray(size)
