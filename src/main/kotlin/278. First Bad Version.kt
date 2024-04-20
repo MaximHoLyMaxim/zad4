@@ -11,6 +11,6 @@ fun main(args: Array<String>) {
 
     //println(mass)
 
-    //print("Введите плохой товар: ")
+    //print("Введите некачественный товар: ")
     //var n= readLine()
 //}
